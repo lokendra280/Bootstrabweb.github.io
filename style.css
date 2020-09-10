@@ -47,3 +47,11 @@
 .fa-lock{
 	padding-top: 20px;
 }
+.img_responsive{
+	height: 400px;
+	width: 500px;
+}
+.ABOUTus{
+	padding-bottom: 50px;
+	background-color: gray;
+}
